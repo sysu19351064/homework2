@@ -1,0 +1,46 @@
+Identity类函数使用例子
+constructor1
+copy constructor1
+362424200205281153lihongli
+Student类函数使用例子
+copy constructor1
+copy constructor1
+constructor2
+distructor1
+copy constructor1
+copy constructor1
+constructor2
+distructor1
+copy constructor1
+copy constructor2
+362424200205281153
+lihongli
+SYSU
+Makestudent函数使用例子
+copy constructor1
+copy constructor1
+copy constructor1
+constructor2
+distructor1
+362424200205281153
+lihongli
+distructor2
+distructor1
+distructor1
+copy constructor1
+copy constructor1
+copy constructor1
+constructor2
+distructor1
+SYSUdistructor2
+distructor1
+distructor1
+distructor2
+distructor1
+distructor2
+distructor1
+distructor2
+distructor1
+distructor1
+distructor1
+Program ended with exit code: 0
